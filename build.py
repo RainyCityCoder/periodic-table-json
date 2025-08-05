@@ -61,36 +61,36 @@ def build_object(name, atomic_num, symbol, atomic_weight):
             "Atomic Weight": atomic_weight}
     
     
-def atomic_number_check(p = ''):
+def atomic_number_check(prompt = ''):
     '''Checks user-entered atomic number is integer
 
     Args:
-        p (str, optional): user's entry. Defaults to ''.
+        prompt (str, optional): user's entry. Defaults to ''.
 
     Returns:
         int: atomic number of element
     '''
     
     try:
-        atomic_num = int(input(p))
+        atomic_num = int(input(prompt))
     except ValueError:
         print("Error: Input must be a valid integer.")
     else: 
         return atomic_num
     
     
-def atomic_weight_check(p = ''):
+def atomic_weight_check(prompt = ''):
     '''Checks user-entered atomic weight is float
 
     Args:
-        p (str, optional): user's entry. Defaults to ''.
+        prompt (str, optional): user's entry. Defaults to ''.
 
     Returns:
         float: atomic weight of element
     '''
     
     try:
-        atomic_weight = input(p)
+        atomic_weight = input(prompt)
         atomic_weight = float(atomic_weight)
     except ValueError:
         print("Error: Input must be a valid number.")
