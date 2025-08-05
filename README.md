@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is designed to host a minimalist JSON file of the elements known to science (as listed on [ptable.com](https://ptable.com/#?lang=en)).
+This repository is designed to host a minimalist JSON file of the elements known to science (as listed on [ptable.com](https://ptable.com/#?lang=en)). Please see the license for details on what is and isn't permissable.
 
 ## Tech Stack
 
