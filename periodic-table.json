@@ -1,3 +1,710 @@
 [
-  
+  {
+    "Name": "Hydrogen",
+    "Atomic Number": 1,
+    "Symbol": "H",
+    "Atomic Weight": 1.008
+  },
+  {
+    "Name": "Helium",
+    "Atomic Number": 2,
+    "Symbol": "He",
+    "Atomic Weight": 4.0026
+  },
+  {
+    "Name": "Lithium",
+    "Atomic Number": 3,
+    "Symbol": "Li",
+    "Atomic Weight": 6.94
+  },
+  {
+    "Name": "Beryllium",
+    "Atomic Number": 4,
+    "Symbol": "Be",
+    "Atomic Weight": 9.0122
+  },
+  {
+    "Name": "Boron",
+    "Atomic Number": 5,
+    "Symbol": "B",
+    "Atomic Weight": 10.81
+  },
+  {
+    "Name": "Carbon",
+    "Atomic Number": 6,
+    "Symbol": "C",
+    "Atomic Weight": 12.011
+  },
+  {
+    "Name": "Nitrogen",
+    "Atomic Number": 7,
+    "Symbol": "N",
+    "Atomic Weight": 14.007
+  },
+  {
+    "Name": "Oxygen",
+    "Atomic Number": 8,
+    "Symbol": "O",
+    "Atomic Weight": 15.999
+  },
+  {
+    "Name": "Fluorine",
+    "Atomic Number": 9,
+    "Symbol": "F",
+    "Atomic Weight": 18.998
+  },
+  {
+    "Name": "Neon",
+    "Atomic Number": 10,
+    "Symbol": "Ne",
+    "Atomic Weight": 20.18
+  },
+  {
+    "Name": "Sodium",
+    "Atomic Number": 11,
+    "Symbol": "Na",
+    "Atomic Weight": 22.99
+  },
+  {
+    "Name": "Magnesium",
+    "Atomic Number": 12,
+    "Symbol": "Mg",
+    "Atomic Weight": 24.305
+  },
+  {
+    "Name": "Aluminum",
+    "Atomic Number": 13,
+    "Symbol": "Al",
+    "Atomic Weight": 26.982
+  },
+  {
+    "Name": "Silicon",
+    "Atomic Number": 14,
+    "Symbol": "Si",
+    "Atomic Weight": 28.085
+  },
+  {
+    "Name": "Phosphorus",
+    "Atomic Number": 15,
+    "Symbol": "P",
+    "Atomic Weight": 30.974
+  },
+  {
+    "Name": "Sulfur",
+    "Atomic Number": 16,
+    "Symbol": "S",
+    "Atomic Weight": 32.06
+  },
+  {
+    "Name": "Chlorine",
+    "Atomic Number": 17,
+    "Symbol": "Cl",
+    "Atomic Weight": 35.45
+  },
+  {
+    "Name": "Argon",
+    "Atomic Number": 18,
+    "Symbol": "Ar",
+    "Atomic Weight": 39.948
+  },
+  {
+    "Name": "Potassium",
+    "Atomic Number": 19,
+    "Symbol": "K",
+    "Atomic Weight": 39.098
+  },
+  {
+    "Name": "Calcium",
+    "Atomic Number": 20,
+    "Symbol": "Ca",
+    "Atomic Weight": 40.078
+  },
+  {
+    "Name": "Scandium",
+    "Atomic Number": 21,
+    "Symbol": "Sc",
+    "Atomic Weight": 44.956
+  },
+  {
+    "Name": "Titanium",
+    "Atomic Number": 22,
+    "Symbol": "Ti",
+    "Atomic Weight": 47.867
+  },
+  {
+    "Name": "Vanadium",
+    "Atomic Number": 23,
+    "Symbol": "V",
+    "Atomic Weight": 50.942
+  },
+  {
+    "Name": "Chromium",
+    "Atomic Number": 24,
+    "Symbol": "Cr",
+    "Atomic Weight": 51.996
+  },
+  {
+    "Name": "Manganese",
+    "Atomic Number": 25,
+    "Symbol": "Mn",
+    "Atomic Weight": 54.938
+  },
+  {
+    "Name": "Iron",
+    "Atomic Number": 26,
+    "Symbol": "Fe",
+    "Atomic Weight": 55.845
+  },
+  {
+    "Name": "Cobalt",
+    "Atomic Number": 27,
+    "Symbol": "Co",
+    "Atomic Weight": 58.933
+  },
+  {
+    "Name": "Nickel",
+    "Atomic Number": 28,
+    "Symbol": "Ni",
+    "Atomic Weight": 58.693
+  },
+  {
+    "Name": "Copper",
+    "Atomic Number": 29,
+    "Symbol": "Cu",
+    "Atomic Weight": 63.546
+  },
+  {
+    "Name": "Zinc",
+    "Atomic Number": 30,
+    "Symbol": "Zn",
+    "Atomic Weight": 65.38
+  },
+  {
+    "Name": "Gallium",
+    "Atomic Number": 31,
+    "Symbol": "Ga",
+    "Atomic Weight": 69.723
+  },
+  {
+    "Name": "Germanium",
+    "Atomic Number": 32,
+    "Symbol": "Ge",
+    "Atomic Weight": 72.63
+  },
+  {
+    "Name": "Arsenic",
+    "Atomic Number": 33,
+    "Symbol": "As",
+    "Atomic Weight": 74.922
+  },
+  {
+    "Name": "Selenium",
+    "Atomic Number": 34,
+    "Symbol": "Se",
+    "Atomic Weight": 78.971
+  },
+  {
+    "Name": "Bromine",
+    "Atomic Number": 35,
+    "Symbol": "Br",
+    "Atomic Weight": 79.904
+  },
+  {
+    "Name": "Krypton",
+    "Atomic Number": 36,
+    "Symbol": "Kr",
+    "Atomic Weight": 83.798
+  },
+  {
+    "Name": "Rubidium",
+    "Atomic Number": 37,
+    "Symbol": "Rb",
+    "Atomic Weight": 85.468
+  },
+  {
+    "Name": "Strontium",
+    "Atomic Number": 38,
+    "Symbol": "Sr",
+    "Atomic Weight": 87.62
+  },
+  {
+    "Name": "Yttrium",
+    "Atomic Number": 39,
+    "Symbol": "Y",
+    "Atomic Weight": 88.906
+  },
+  {
+    "Name": "Zirconium",
+    "Atomic Number": 40,
+    "Symbol": "Zr",
+    "Atomic Weight": 91.224
+  },
+  {
+    "Name": "Niobium",
+    "Atomic Number": 41,
+    "Symbol": "Nb",
+    "Atomic Weight": 92.906
+  },
+  {
+    "Name": "Molybdenum",
+    "Atomic Number": 42,
+    "Symbol": "Mo",
+    "Atomic Weight": 95.95
+  },
+  {
+    "Name": "Technetium",
+    "Atomic Number": 43,
+    "Symbol": "Tc",
+    "Atomic Weight": 98.0
+  },
+  {
+    "Name": "Ruthenium",
+    "Atomic Number": 44,
+    "Symbol": "Ru",
+    "Atomic Weight": 101.07
+  },
+  {
+    "Name": "Rhodium",
+    "Atomic Number": 45,
+    "Symbol": "Rh",
+    "Atomic Weight": 102.91
+  },
+  {
+    "Name": "Palladium",
+    "Atomic Number": 46,
+    "Symbol": "Pd",
+    "Atomic Weight": 106.42
+  },
+  {
+    "Name": "Silver",
+    "Atomic Number": 47,
+    "Symbol": "Ag",
+    "Atomic Weight": 107.87
+  },
+  {
+    "Name": "Cadmium",
+    "Atomic Number": 48,
+    "Symbol": "Cd",
+    "Atomic Weight": 112.41
+  },
+  {
+    "Name": "Indium",
+    "Atomic Number": 49,
+    "Symbol": "In",
+    "Atomic Weight": 114.82
+  },
+  {
+    "Name": "Tin",
+    "Atomic Number": 50,
+    "Symbol": "Sn",
+    "Atomic Weight": 118.71
+  },
+  {
+    "Name": "Antimony",
+    "Atomic Number": 51,
+    "Symbol": "Sb",
+    "Atomic Weight": 121.76
+  },
+  {
+    "Name": "Tellurium",
+    "Atomic Number": 52,
+    "Symbol": "Te",
+    "Atomic Weight": 127.6
+  },
+  {
+    "Name": "Iodine",
+    "Atomic Number": 53,
+    "Symbol": "I",
+    "Atomic Weight": 126.9
+  },
+  {
+    "Name": "Xenon",
+    "Atomic Number": 54,
+    "Symbol": "Xe",
+    "Atomic Weight": 131.29
+  },
+  {
+    "Name": "Caesium",
+    "Atomic Number": 55,
+    "Symbol": "Cs",
+    "Atomic Weight": 132.91
+  },
+  {
+    "Name": "Barium",
+    "Atomic Number": 56,
+    "Symbol": "Ba",
+    "Atomic Weight": 137.33
+  },
+  {
+    "Name": "Lanthanum",
+    "Atomic Number": 57,
+    "Symbol": "La",
+    "Atomic Weight": 138.91
+  },
+  {
+    "Name": "Cerium",
+    "Atomic Number": 58,
+    "Symbol": "Ce",
+    "Atomic Weight": 140.12
+  },
+  {
+    "Name": "Praseodymium",
+    "Atomic Number": 59,
+    "Symbol": "Pr",
+    "Atomic Weight": 140.91
+  },
+  {
+    "Name": "Neodymium",
+    "Atomic Number": 60,
+    "Symbol": "Nd",
+    "Atomic Weight": 144.24
+  },
+  {
+    "Name": "Promethium",
+    "Atomic Number": 61,
+    "Symbol": "Pm",
+    "Atomic Weight": 145.0
+  },
+  {
+    "Name": "Samarium",
+    "Atomic Number": 62,
+    "Symbol": "Sm",
+    "Atomic Weight": 150.36
+  },
+  {
+    "Name": "Europium",
+    "Atomic Number": 63,
+    "Symbol": "Eu",
+    "Atomic Weight": 151.96
+  },
+  {
+    "Name": "Gadolinium",
+    "Atomic Number": 64,
+    "Symbol": "Gd",
+    "Atomic Weight": 157.25
+  },
+  {
+    "Name": "Terbium",
+    "Atomic Number": 65,
+    "Symbol": "Tb",
+    "Atomic Weight": 158.93
+  },
+  {
+    "Name": "Dysprosium",
+    "Atomic Number": 66,
+    "Symbol": "Dy",
+    "Atomic Weight": 162.5
+  },
+  {
+    "Name": "Holmium",
+    "Atomic Number": 67,
+    "Symbol": "Ho",
+    "Atomic Weight": 164.93
+  },
+  {
+    "Name": "Erbium",
+    "Atomic Number": 68,
+    "Symbol": "Er",
+    "Atomic Weight": 167.26
+  },
+  {
+    "Name": "Thulium",
+    "Atomic Number": 69,
+    "Symbol": "Tm",
+    "Atomic Weight": 168.93
+  },
+  {
+    "Name": "Ytterbium",
+    "Atomic Number": 70,
+    "Symbol": "Yb",
+    "Atomic Weight": 173.05
+  },
+  {
+    "Name": "Lutetium",
+    "Atomic Number": 71,
+    "Symbol": "Lu",
+    "Atomic Weight": 174.97
+  },
+  {
+    "Name": "Hafnium",
+    "Atomic Number": 72,
+    "Symbol": "Hf",
+    "Atomic Weight": 178.49
+  },
+  {
+    "Name": "Tantalum",
+    "Atomic Number": 73,
+    "Symbol": "Ta",
+    "Atomic Weight": 180.95
+  },
+  {
+    "Name": "Tungsten",
+    "Atomic Number": 74,
+    "Symbol": "W",
+    "Atomic Weight": 183.84
+  },
+  {
+    "Name": "Rhenium",
+    "Atomic Number": 75,
+    "Symbol": "Re",
+    "Atomic Weight": 186.21
+  },
+  {
+    "Name": "Osmium",
+    "Atomic Number": 76,
+    "Symbol": "Os",
+    "Atomic Weight": 190.23
+  },
+  {
+    "Name": "Iridium",
+    "Atomic Number": 77,
+    "Symbol": "Ir",
+    "Atomic Weight": 192.22
+  },
+  {
+    "Name": "Platinum",
+    "Atomic Number": 78,
+    "Symbol": "Pt",
+    "Atomic Weight": 195.08
+  },
+  {
+    "Name": "Gold",
+    "Atomic Number": 79,
+    "Symbol": "Au",
+    "Atomic Weight": 196.97
+  },
+  {
+    "Name": "Mercury",
+    "Atomic Number": 80,
+    "Symbol": "Hg",
+    "Atomic Weight": 200.59
+  },
+  {
+    "Name": "Thallium",
+    "Atomic Number": 81,
+    "Symbol": "Tl",
+    "Atomic Weight": 204.38
+  },
+  {
+    "Name": "Lead",
+    "Atomic Number": 82,
+    "Symbol": "Pb",
+    "Atomic Weight": 207.2
+  },
+  {
+    "Name": "Bismuth",
+    "Atomic Number": 83,
+    "Symbol": "Bi",
+    "Atomic Weight": 208.98
+  },
+  {
+    "Name": "Polonium",
+    "Atomic Number": 84,
+    "Symbol": "Po",
+    "Atomic Weight": 209.0
+  },
+  {
+    "Name": "Astatine",
+    "Atomic Number": 85,
+    "Symbol": "At",
+    "Atomic Weight": 210.0
+  },
+  {
+    "Name": "Radon",
+    "Atomic Number": 86,
+    "Symbol": "Rn",
+    "Atomic Weight": 222.0
+  },
+  {
+    "Name": "Francium",
+    "Atomic Number": 87,
+    "Symbol": "Fr",
+    "Atomic Weight": 223.0
+  },
+  {
+    "Name": "Radiu",
+    "Atomic Number": 88,
+    "Symbol": "Ra",
+    "Atomic Weight": 226.0
+  },
+  {
+    "Name": "Actinium",
+    "Atomic Number": 89,
+    "Symbol": "Ac",
+    "Atomic Weight": 227.0
+  },
+  {
+    "Name": "Thorium",
+    "Atomic Number": 90,
+    "Symbol": "Th",
+    "Atomic Weight": 232.04
+  },
+  {
+    "Name": "Protactinium",
+    "Atomic Number": 91,
+    "Symbol": "Pa",
+    "Atomic Weight": 231.04
+  },
+  {
+    "Name": "Uranium",
+    "Atomic Number": 92,
+    "Symbol": "U",
+    "Atomic Weight": 238.03
+  },
+  {
+    "Name": "Neptunium",
+    "Atomic Number": 93,
+    "Symbol": "Np",
+    "Atomic Weight": 237.0
+  },
+  {
+    "Name": "Plutonium",
+    "Atomic Number": 94,
+    "Symbol": "Pu",
+    "Atomic Weight": 244.0
+  },
+  {
+    "Name": "Americium",
+    "Atomic Number": 95,
+    "Symbol": "Am",
+    "Atomic Weight": 243.0
+  },
+  {
+    "Name": "Curium",
+    "Atomic Number": 96,
+    "Symbol": "Cm",
+    "Atomic Weight": 247.0
+  },
+  {
+    "Name": "Berkelium",
+    "Atomic Number": 97,
+    "Symbol": "Bk",
+    "Atomic Weight": 247.0
+  },
+  {
+    "Name": "Californium",
+    "Atomic Number": 98,
+    "Symbol": "Cf",
+    "Atomic Weight": 251.0
+  },
+  {
+    "Name": "Einsteinium",
+    "Atomic Number": 99,
+    "Symbol": "Es",
+    "Atomic Weight": 252.0
+  },
+  {
+    "Name": "Fermium",
+    "Atomic Number": 100,
+    "Symbol": "Fm",
+    "Atomic Weight": 257.0
+  },
+  {
+    "Name": "Mendelevium",
+    "Atomic Number": 101,
+    "Symbol": "Md",
+    "Atomic Weight": 258.0
+  },
+  {
+    "Name": "Nobelium",
+    "Atomic Number": 102,
+    "Symbol": "No",
+    "Atomic Weight": 259.0
+  },
+  {
+    "Name": "Lawrencium",
+    "Atomic Number": 103,
+    "Symbol": "Lr",
+    "Atomic Weight": 266.0
+  },
+  {
+    "Name": "Rutherfordium",
+    "Atomic Number": 104,
+    "Symbol": "Rf",
+    "Atomic Weight": 267.0
+  },
+  {
+    "Name": "Dubnium",
+    "Atomic Number": 105,
+    "Symbol": "Db",
+    "Atomic Weight": 268.0
+  },
+  {
+    "Name": "Seaborgium",
+    "Atomic Number": 106,
+    "Symbol": "Sg",
+    "Atomic Weight": 269.0
+  },
+  {
+    "Name": "Bohrium",
+    "Atomic Number": 107,
+    "Symbol": "Bh",
+    "Atomic Weight": 270.0
+  },
+  {
+    "Name": "Hassium",
+    "Atomic Number": 108,
+    "Symbol": "Hs",
+    "Atomic Weight": 277.0
+  },
+  {
+    "Name": "Meitnerium",
+    "Atomic Number": 109,
+    "Symbol": "Mt",
+    "Atomic Weight": 278.0
+  },
+  {
+    "Name": "Darmstadtium",
+    "Atomic Number": 110,
+    "Symbol": "Ds",
+    "Atomic Weight": 281.0
+  },
+  {
+    "Name": "Roentgenium",
+    "Atomic Number": 111,
+    "Symbol": "Rg",
+    "Atomic Weight": 282.0
+  },
+  {
+    "Name": "Copernicium",
+    "Atomic Number": 112,
+    "Symbol": "Cn",
+    "Atomic Weight": 285.0
+  },
+  {
+    "Name": "Nihonium",
+    "Atomic Number": 113,
+    "Symbol": "Nh",
+    "Atomic Weight": 286.0
+  },
+  {
+    "Name": "Flerovium",
+    "Atomic Number": 114,
+    "Symbol": "Fl",
+    "Atomic Weight": 289.0
+  },
+  {
+    "Name": "Moscovium",
+    "Atomic Number": 115,
+    "Symbol": "Mc",
+    "Atomic Weight": 290.0
+  },
+  {
+    "Name": "Livermorium",
+    "Atomic Number": 116,
+    "Symbol": "Lv",
+    "Atomic Weight": 293.0
+  },
+  {
+    "Name": "Tennessine",
+    "Atomic Number": 117,
+    "Symbol": "Ts",
+    "Atomic Weight": 294.0
+  },
+  {
+    "Name": "Oganesson",
+    "Atomic Number": 118,
+    "Symbol": "Og",
+    "Atomic Weight": 294.0
+  }
 ]
