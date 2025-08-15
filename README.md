@@ -21,7 +21,7 @@ A Python script was used to read existing JSON objects from `periodic-table.json
 
 ## Forking
 
-Feel free to fork and utilize this code and data.
+Feel free to fork and utilize this code and data in accordance with the license.
 
 ## Contributing
 
